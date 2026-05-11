@@ -9,13 +9,7 @@ variable "repository_description" {
   default     = "Example default description"
 }
 
-variable "repository_private" {
-  description = "Github repo should be private"
-  type        = bool
-  default     = false
-}
-
-variable "repositiry_visibility" {
+variable "respoitory_visibility" {
   description = "Visibility of repo"
   type        = string
   default     = "public"

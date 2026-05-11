@@ -1,5 +1,4 @@
 repository_name = "terraform-workshop-tf-mngt"
 repository_description = "TF managed respoitory for workshop"
-repository_private = "false"
 respoitory_visibility = "public"
-github_owner = "workshop"
+github_owner = "ajay-training"
